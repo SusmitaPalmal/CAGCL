@@ -1,0 +1,1 @@
+CAGCL6_modality_combo.py incorporating six different modalities of data for breast cancer survival prediction in terms of 5 years cutoff. It is classifying the patients in long term and short term survivours.
