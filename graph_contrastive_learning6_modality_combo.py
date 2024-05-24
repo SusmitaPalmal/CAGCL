@@ -1,7 +1,7 @@
 
 """
 
-graph_contrastive_learning6_modality_Combo.ipynb
+CAGCL_6_modality_Combo.ipynb
 
 
 """
